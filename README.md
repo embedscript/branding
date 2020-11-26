@@ -2,7 +2,11 @@
 
 The Embed branding and related press kit
 
-## Brand Logo
+## Logo
+
+<img src="images/logo.png"/>
+
+## Brand
 
 <img src="images/brand.png" />
 
