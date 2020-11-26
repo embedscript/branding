@@ -1,5 +1,5 @@
-# Embed Site
+# Embed Branding
 
-The Embed website
+The Embed branding and related press kit
 
-<img src="brand.png" />
+<img src="images/brand.png" />
