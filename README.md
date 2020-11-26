@@ -7,4 +7,5 @@ The Embed branding and related press kit
 
 ## Hex Code
 
-Logo - #FF66C4
+- Logo - #FF66C4
+- Text - #000000
