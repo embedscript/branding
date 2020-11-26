@@ -2,8 +2,9 @@
 
 The Embed branding and related press kit
 
-<img src="images/brand.png" />
+## Brand Logo
 
+<img src="images/brand.png" />
 
 ## Color Codes
 
