@@ -1,4 +1,4 @@
-# Embed Branding
+Embed Brand Kit
 
 The Embed branding and related press kit
 
@@ -6,7 +6,7 @@ The Embed branding and related press kit
 
 <img src="images/logo.png"/>
 
-## Brand
+## Branding
 
 <img src="images/brand.png" />
 
